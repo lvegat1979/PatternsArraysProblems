@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="SOLID\" />
+    <Folder Include="DESINGPATTERN\" />
+    <Folder Include="DESINGPATTERN\Proxy\" />
+    <Folder Include="DESINGPATTERN\Decorator\" />
+    <Folder Include="Algoritmos\" />
+  </ItemGroup>
+</Project>
